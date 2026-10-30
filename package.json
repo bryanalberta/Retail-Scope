@@ -1,0 +1,19 @@
+{
+  "name": "retailscope-indonesia",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Platform Analitik Retail Indonesia: Tren Penjualan, Pareto 80/20, Market Basket Analysis (Apriori), Segmentasi Pelanggan RFM + K-Means++, Prediksi Churn/CLV & Pipeline PySpark",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bryanalberta/Retail-Scope.git"
+  },
+  "homepage": "https://github.com/bryanalberta/Retail-Scope#readme",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test tests/engine.test.cjs",
+    "check": "node --check dist/app.js && node --check dist/engine.js && node --check dist/worker.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
