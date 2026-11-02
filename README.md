@@ -2,7 +2,8 @@
 
 **RetailScope** adalah platform laboratorium analitik transaksi retail Indonesia berbasis web (In-Memory Web Worker Engine) serta pendamping pipeline komputasi terdistribusi **Apache Spark (`pyspark_pipeline.py`)**. Proyek ini dirancang untuk memenuhi seluruh kebutuhan penelitian dan praktikum mata kuliah **Big Data**: mulai dari *data ingestion*, *audit data cleaning*, *analisis tren penjualan multi-dimensi*, *konsentrasi Pareto 80/20*, *Market Basket Analysis (Apriori)*, hingga *segmentasi pelanggan RFM + K-Means++*, *prediksi risiko Churn*, dan *estimasi Customer Lifetime Value (CLV)*.
 
-🔗 **Repositori GitHub**: [https://github.com/bryanalberta/Retail-Scope](https://github.com/bryanalberta/Retail-Scope)
+🔗 **Repositori GitHub**: [https://github.com/bryanalberta/Retail-Scope](https://github.com/bryanalberta/Retail-Scope)  
+🌐 **Live Demo Website**: [https://bryanalberta.github.io/Retail-Scope/](https://bryanalberta.github.io/Retail-Scope/)
 
 ---
 
