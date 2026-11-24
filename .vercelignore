@@ -1,0 +1,6 @@
+# RetailScope di Vercel cukup static dari dist/.
+# server.mjs hanya untuk menjalankan lokal (npm start); kalau ikut ter-upload,
+# Vercel menganggapnya serverless function dan situs jadi error 500.
+server.mjs
+tests/
+Mulai-RetailScope.cmd
